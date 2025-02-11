@@ -10,3 +10,4 @@
 | AdaRevD: Adaptive Patch Exiting Reversible Decoder Pushes the Limit of Image Deblurring [[CVPR 2024]](https://arxiv.org/abs/2406.09135)  | [AdaRevD](https://github.com/INVOKERer/AdaRevD) |
 
 ## Image-SuperResolution
+| Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary [CVPR 2024](https://arxiv.org/abs/2401.08209) | [ATD](https://github.com/LabShuHangGU/Adaptive-Token-Dictionary) |
