@@ -9,7 +9,7 @@
 | LoFormer: Local Frequency Transformer for Image Deblurring [[ACM MM 2024]](https://arxiv.org/abs/2407.16993)                             | [LoFormer](https://github.com/INVOKERer/LoFormer) |
 | Learning Enriched Features via Selective State Spaces Model for Efficient Image Deblurring [[ACM MM 2024]](https://arxiv.org/pdf/2403.20106) | [ALGNet](https://github.com/Tombs98/ALGNet)|
 | AdaRevD: Adaptive Patch Exiting Reversible Decoder Pushes the Limit of Image Deblurring [[CVPR 2024]](https://arxiv.org/abs/2406.09135)  | [AdaRevD](https://github.com/INVOKERer/AdaRevD) |
-
+| Efficient Visual State Space Model for Image Deblurring [[arXiv]](https://arxiv.org/pdf/2403.20106) | [EVSSM](https://github.com/kkkls/EVSSM)|
 
 
 ## Image-SuperResolution
