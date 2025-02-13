@@ -4,7 +4,7 @@
 
 | Paper | Code |
 | - | - | 
-| Rethinking Coarse-to-Fine Approach in Single Image Deblurring [[ICCV 2021]](https://arxiv.org/abs/2108.05054) | [MIMO-UNet](https://github.com/chosj95/MIMO-UNet) |
+| Rethinking Coarse-to-Fine Approach in Single Image Deblurring [ICCV 2021](https://arxiv.org/abs/2108.05054) | [MIMO-UNet](https://github.com/chosj95/MIMO-UNet) |
 |Multi-Stage Progressive Image Restoration [[CVPR 2021]](https://arxiv.org/abs/2102.02808) | [MPRNet](https://github.com/swz30/MPRNet) |
 | Restormer: Efficient Transformer for High-Resolution Image Restoration [[CVPR 2022]](https://arxiv.org/abs/2111.09881) | [Restormer](https://github.com/swz30/Restormer) |
 | Simple Baselines for Image Restoration [[ECCV2022]](https://arxiv.org/abs/2407.18046)]      | [NAFNet](https://github.com/megvii-research/NAFNet) |
