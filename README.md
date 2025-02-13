@@ -13,4 +13,5 @@
 
 
 ## Image-SuperResolution
+| - | - | 
 | Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary [[CVPR 2024]](https://arxiv.org/abs/2401.08209) | [ATD](https://github.com/LabShuHangGU/Adaptive-Token-Dictionary) |
