@@ -25,6 +25,7 @@
 ## Image-SuperResolution
 | Paper | Link | Code |
 | - | - | - | 
+| ClassSR: A General Framework to Accelerate Super-Resolution Networks by Data Characteristic| [CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Kong_ClassSR_A_General_Framework_to_Accelerate_Super-Resolution_Networks_by_Data_CVPR_2021_paper.pdf) | [ClassSR](https://github.com/XPixelGroup/ClassSR) |
 | Adaptive Patch Exiting for Scalable Single Image Super-Resolution | [ECCV 2022](https://arxiv.org/abs/2203.11589v2) | [APE-SR](https://github.com/littlepure2333/APE) |
 | Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary | [CVPR 2024](https://arxiv.org/abs/2401.08209) | [ATD](https://github.com/LabShuHangGU/Adaptive-Token-Dictionary) |
 | GaussianSR: High Fidelity 2D Gaussian Splatting for Arbitrary-Scale Image Super-Resolution | [AAAI 2025](https://arxiv.org/abs/2407.18046) | [GaussianSR](https://github.com/tljxyys/GaussianSR) |
