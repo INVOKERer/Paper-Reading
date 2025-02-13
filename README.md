@@ -25,5 +25,6 @@
 ## Image-SuperResolution
 | Paper | Link | Code |
 | - | - | - | 
+| Adaptive Patch Exiting for Scalable Single Image Super-Resolution | [ECCV 2022](https://arxiv.org/abs/2203.11589v2) | [APE-SR](https://github.com/littlepure2333/APE) |
 | Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary | [CVPR 2024](https://arxiv.org/abs/2401.08209) | [ATD](https://github.com/LabShuHangGU/Adaptive-Token-Dictionary) |
 | GaussianSR: High Fidelity 2D Gaussian Splatting for Arbitrary-Scale Image Super-Resolution | [AAAI 2025](https://arxiv.org/abs/2407.18046) | [GaussianSR](https://github.com/tljxyys/GaussianSR) |
