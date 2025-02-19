@@ -4,6 +4,7 @@
 | Paper | Link | Code |
 | - | - | - | 
 | Multi-Stage Progressive Image Restoration | [CVPR 2021](https://arxiv.org/abs/2102.02808) | [MPRNet](https://github.com/swz30/MPRNet) |
+| Uformer: A General U-Shaped Transformer for Image Restoration | [CVPR 2022](https://arxiv.org/abs/2106.03106) | [Uformer](https://github.com/ZhendongWang6/Uformer) |
 | Restormer: Efficient Transformer for High-Resolution Image Restoration | [CVPR 2022](https://arxiv.org/abs/2111.09881) | [Restormer](https://github.com/swz30/Restormer) |
 | Simple Baselines for Image Restoration | [ECCV2022](https://arxiv.org/abs/2407.18046)      | [NAFNet](https://github.com/megvii-research/NAFNet) |
 | Revitalizing Convolutional Network for Image Restoration | [TPAMI 2024](https://ieeexplore.ieee.org/abstract/document/10571568) | [ConvIR](https://github.com/c-yn/ConvIR) |
