@@ -15,6 +15,7 @@
 
 | Paper | Link | Code |
 | - | - | - | 
+| Deep Multi-scale Convolutional Neural Network for Dynamic Scene Deblurring | [CVPR 2017](https://openaccess.thecvf.com/content_cvpr_2017/papers/Nah_Deep_Multi-Scale_Convolutional_CVPR_2017_paper.pdf) | [DeepDeblur/GoPro](https://github.com/SeungjunNah/DeepDeblur_release) |
 | Rethinking Coarse-to-Fine Approach in Single Image Deblurring | [ICCV 2021](https://arxiv.org/abs/2108.05054) | [MIMO-UNet](https://github.com/chosj95/MIMO-UNet) |
 | Deep Residual Fourier Transformation for Single Image Deblurring | [arXiv](https://arxiv.org/abs/2111.11745v1)                        | [DeepRFT-v1](https://github.com/INVOKERer/DeepRFT) |
 | Intriguing Findings of Frequency Selection for Image Deblurring | [AAAI 2023](https://ojs.aaai.org/index.php/AAAI/article/view/25281) | [DeepRFT-v1.5](https://github.com/INVOKERer/DeepRFT/tree/AAAI2023) |
