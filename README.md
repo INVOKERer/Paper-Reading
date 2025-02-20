@@ -24,7 +24,7 @@
 |Deblurgan: Blind motion deblurring using conditional adversarial networks | [CVPR 2018](http://openaccess.thecvf.com/content_cvpr_2018/html/Kupyn_DeblurGAN_Blind_Motion_CVPR_2018_paper.html)|[DeblurGAN](https://github.com/KupynOrest/DeblurGAN)|
 | Deep Stacked Hierarchical Multi-Patch Network for Image Deblurring| [CVPR2019](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Deep_Stacked_Hierarchical_Multi-Patch_Network_for_Image_Deblurring_CVPR_2019_paper.html)|[DMPHN](https://github.com/HongguangZhang/DMPHN-cvpr19-master)|
 |DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better| [ICCV 2019](https://arxiv.org/abs/1908.03826)|[DeblurGANv2](https://github.com/TAMU-VITA/DeblurGANv2)|
-| Human-Aware Motion Deblurring | [ICCV 2019](https://pdfs.semanticscholar.org/20a4/b3353579525f0b76ec42e17a2284b4453f9a.pdf)| HIDE |
+| Human-Aware Motion Deblurring | [ICCV 2019](https://arxiv.org/pdf/2001.06816)| [HIDE](https://github.com/joanshen0508/HA_deblur) |
 |Tell Me Where It is Still Blurry: Adversarial Blurred Region Mining and Refining | [ACM MM 2019](https://www.iis.sinica.edu.tw/papers/liutyng/22871-F.pdf)| |
 | Rethinking Coarse-to-Fine Approach in Single Image Deblurring | [ICCV 2021](https://arxiv.org/abs/2108.05054) | [MIMO-UNet](https://github.com/chosj95/MIMO-UNet) |
 | Deep Residual Fourier Transformation for Single Image Deblurring | [arXiv 2021](https://arxiv.org/abs/2111.11745v1)                        | [DeepRFT-v1](https://github.com/INVOKERer/DeepRFT) |
