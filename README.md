@@ -25,6 +25,7 @@
 | Deep Stacked Hierarchical Multi-Patch Network for Image Deblurring| [CVPR2019](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Deep_Stacked_Hierarchical_Multi-Patch_Network_for_Image_Deblurring_CVPR_2019_paper.html)|[DMPHN](https://github.com/HongguangZhang/DMPHN-cvpr19-master)|
 |DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better| [ICCV 2019](https://arxiv.org/abs/1908.03826)|[DeblurGANv2](https://github.com/TAMU-VITA/DeblurGANv2)|
 | Human-Aware Motion Deblurring | [ICCV 2019](https://pdfs.semanticscholar.org/20a4/b3353579525f0b76ec42e17a2284b4453f9a.pdf)| HIDE |
+|Tell Me Where It is Still Blurry: Adversarial Blurred Region Mining and Refining | [ACM MM 2019](https://www.iis.sinica.edu.tw/papers/liutyng/22871-F.pdf)| |
 | Rethinking Coarse-to-Fine Approach in Single Image Deblurring | [ICCV 2021](https://arxiv.org/abs/2108.05054) | [MIMO-UNet](https://github.com/chosj95/MIMO-UNet) |
 | Deep Residual Fourier Transformation for Single Image Deblurring | [arXiv](https://arxiv.org/abs/2111.11745v1)                        | [DeepRFT-v1](https://github.com/INVOKERer/DeepRFT) |
 | Intriguing Findings of Frequency Selection for Image Deblurring | [AAAI 2023](https://ojs.aaai.org/index.php/AAAI/article/view/25281) | [DeepRFT-v1.5](https://github.com/INVOKERer/DeepRFT/tree/AAAI2023) |
