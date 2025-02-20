@@ -15,6 +15,9 @@
 
 | Paper | Link | Code |
 | - | - | - | 
+| Learning a convolutional neural network for non-uniform motion blur removal | [CVPR 2015](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Learning_a_Convolutional_2015_CVPR_paper.pdf)|[Code 1](http://gr.xjtu.edu.cn/c/document_library/get_file?folderId=2076150&name=DLFE-78101.zip),[Code 2](https://github.com/Sibozhu/MotionBlur-detection-by-CNN) |
+| Learning to deblur | [TPAMI 2016](https://arxiv.org/pdf/1406.7444.pdf)| - |
+| Motion blur kernel estimation via deep learning | [TIP 2018](https://ieeexplore.ieee.org/abstract/document/8039224)|[Code & Project page](https://sites.google.com/view/xiangyuxu/deepedge_tip)|
 | Deep Multi-scale Convolutional Neural Network for Dynamic Scene Deblurring | [CVPR 2017](https://openaccess.thecvf.com/content_cvpr_2017/papers/Nah_Deep_Multi-Scale_Convolutional_CVPR_2017_paper.pdf) | [DeepDeblur/GoPro](https://github.com/SeungjunNah/DeepDeblur_release) |
 | Rethinking Coarse-to-Fine Approach in Single Image Deblurring | [ICCV 2021](https://arxiv.org/abs/2108.05054) | [MIMO-UNet](https://github.com/chosj95/MIMO-UNet) |
 | Deep Residual Fourier Transformation for Single Image Deblurring | [arXiv](https://arxiv.org/abs/2111.11745v1)                        | [DeepRFT-v1](https://github.com/INVOKERer/DeepRFT) |
