@@ -1,4 +1,9 @@
 # Paper-Reading
+## Table of contents
+- [Image-Restoration](#Image-Restoration)
+- [Image-Deblur](#Image-Deblur)
+- [Image-SuperResolution](#Image-SuperResolution)
+
 
 ## Image-Restoration
 | Paper | Link | Code |
