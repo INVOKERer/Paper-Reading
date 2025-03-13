@@ -43,7 +43,7 @@
 | Learning Enriched Features via Selective State Spaces Model for Efficient Image Deblurring | [ACM MM 2024](https://arxiv.org/pdf/2403.20106) | [ALGNet](https://github.com/Tombs98/ALGNet)|
 | Motion-adaptive Separable Collaborative Filters for Blind Motion Deblurring | [CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Motion-adaptive_Separable_Collaborative_Filters_for_Blind_Motion_Deblurring_CVPR_2024_paper.html) | [MISCFilter](https://github.com/ChengxuLiu/MISCFilter) | 
 | AdaRevD: Adaptive Patch Exiting Reversible Decoder Pushes the Limit of Image Deblurring | [CVPR 2024](https://arxiv.org/abs/2406.09135)  | [AdaRevD](https://github.com/INVOKERer/AdaRevD) |
-| Efficient Visual State Space Model for Image Deblurring | [arXiv 2024](https://arxiv.org/abs/2405.14343) | [EVSSM](https://github.com/kkkls/EVSSM)|
+| Efficient Visual State Space Model for Image Deblurring | [CVPR 2025](https://arxiv.org/abs/2405.14343) | [EVSSM](https://github.com/kkkls/EVSSM)|
 
 ## Image-DefocusDeblur
 | Paper | Link | Code |
