@@ -17,6 +17,7 @@
 | Improving Image Restoration by Revisiting Global Information Aggregation | [ECCV 2022](https://arxiv.org/abs/2112.04491)      | [TLC](https://github.com/megvii-research/TLC) |
 | Simple Baselines for Image Restoration | [ECCV2022](https://arxiv.org/abs/2407.18046)      | [NAFNet](https://github.com/megvii-research/NAFNet) |
 | Revitalizing Convolutional Network for Image Restoration | [TPAMI 2024](https://ieeexplore.ieee.org/abstract/document/10571568) | [ConvIR](https://github.com/c-yn/ConvIR) |
+| Image restoration via frequency selection | [TPAMI 2024](https://ieeexplore.ieee.org/abstract/document/10310164) | [FSNet](https://github.com/c-yn/FSNet) |
 | MambaIR: A Simple Baseline for Image Restoration with State-Space Model | [ECCV 2024](https://arxiv.org/pdf/2411.15269) | [MambaIR](https://github.com/csguoh/MambaIR) |
 
 ## Image-Deblur
